@@ -22,7 +22,7 @@ import com.fsd.service.ISubjectService;
 public class BookController {
 
     @Autowired
-    private IBookService bookService;      
+    private IBookService bookService;        
     
     @Autowired
     private ISubjectService subjectService;
